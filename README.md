@@ -8,6 +8,6 @@
     <title>.</title>
 </head>
 <body>
-    <h1>윤수야 안녕</h1>
+    <h1>html</h1>
 </body>
 </html>
