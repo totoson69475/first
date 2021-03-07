@@ -16,7 +16,6 @@
         <li><a href="#content4">콜드</a></li>
         <li><a href="#content5">딘</a></li>
     </ul>
-
     <h2 id="content1">크러쉬</h2>
     <p>어떻게 지내 - 크러쉬
     <a href="https://www.youtube.com/watch?v=v2jEdnznd3A" target="_blank"> 듣기</a><br>
