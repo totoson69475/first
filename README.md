@@ -16,6 +16,7 @@
         <li><a href="#content4">콜드</a></li>
         <li><a href="#content5">딘</a></li>
     </ul>
+
     <h2 id="content1">크러쉬</h2>
     <p>어떻게 지내 - 크러쉬
     <a href="https://www.youtube.com/watch?v=v2jEdnznd3A" target="_blank"> 듣기</a><br>
@@ -29,7 +30,6 @@
     <a href="https://www.youtube.com/watch?v=TcytstV1_XE" target="_blank"> 듣기</a>
     </p>
     <p><a href="#menu">[메뉴로]</a></p>
-
     <h2 id="content2">DPR LIVE</h2>
     <p>Text me - DPR LIVE(colors live)
     <a href="https://www.youtube.com/watch?v=H6azLn1Cj1A" target="_blank"> 듣기</a><br>
@@ -41,7 +41,6 @@
     <a href="https://www.youtube.com/watch?v=kGi4CRlJA6w" target="_blank"> 듣기</a>
     </p>
     <p></p><a href="#menu">[메뉴로]</a></p>
-
     <h2 id="content3">기리보이</h2>
     <p>키보드 - 기리보이
     <a href ="https://www.youtube.com/watch?v=nY_uTgPz4sc" target="_blank"> 듣기</a><br>
@@ -53,7 +52,6 @@
     <a href = "https://www.youtube.com/watch?v=0Remc4lR92o" target="_blank"> 듣기</a>
     </p>
     <p><a href="#menu">[메뉴로]</a></p>
-
     <h2 id="content4">콜드</h2>
     <p>bath - onoffon
     <a href ="https://www.youtube.com/watch?v=UhOVBzQ6wJk" target="_blank"> 듣기</a><br>
@@ -64,7 +62,6 @@
     내 곁에서 떠나가지 말아요 - 콜드
     <a href ="https://www.youtube.com/watch?v=3hnmPRCsgIE" target="_blank"> 듣기</a></p>
     <p><a href="#menu">[메뉴로]</a></p>
-
     <h2 id="content5">딘</h2>
     <p>Love - DEAN
     <a href =https://www.youtube.com/watch?v=SkNB5AsgZOc target="_blank"> 듣기</a><br>
