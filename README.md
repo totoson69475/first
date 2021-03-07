@@ -34,7 +34,7 @@
                 <label><input type="radio" name="subject" value="jp">일어회화</label>
             </li>
         </ul>
-    </form-->
+</form>-->
     <form>
         <fieldset>
             <legend>개인 정보</legend>
