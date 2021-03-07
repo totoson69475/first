@@ -62,7 +62,7 @@
     <a href ="https://www.youtube.com/watch?v=3hnmPRCsgIE" target="_blank"> 듣기</a></p>
     <p><a href="#menu">[메뉴로]</a></p>
     <h2 id="content5">딘</h2>
-    <p>Love - DEAN
+    <p>Love - DEAN(colors live)
     <a href =https://www.youtube.com/watch?v=SkNB5AsgZOc target="_blank"> 듣기</a><br>
     Instagram - DEAN
     <a href ="https://www.youtube.com/watch?v=wKyMIrBClYw" target="_blank"> 듣기</a><br>
